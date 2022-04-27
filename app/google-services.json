@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305455376931",
+    "firebase_url": "https://chatty-8b012-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatty-8b012",
+    "storage_bucket": "chatty-8b012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305455376931:android:a771ce6c1cda68eb4d9f96",
+        "android_client_info": {
+          "package_name": "com.serbalta.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305455376931-199qfh6q4rfdi2s9rnr83hm6q5uvcq1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUWBN_gWi-kpmNcvY_oDwMOFy71k1RA8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305455376931-199qfh6q4rfdi2s9rnr83hm6q5uvcq1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
